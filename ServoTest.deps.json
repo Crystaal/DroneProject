@@ -11,6 +11,7 @@
         "dependencies": {
           "Unosquare.Raspberry.IO": "0.27.0",
           "Unosquare.WiringPi": "0.5.0",
+          "WiringPi": "1.0.0",
           "runtimepack.Microsoft.NETCore.App.Runtime.linux-arm": "3.1.3"
         },
         "runtime": {
@@ -1458,6 +1459,11 @@
             "fileVersion": "0.5.0.0"
           }
         }
+      },
+      "WiringPi/1.0.0": {
+        "runtime": {
+          "WiringPi.dll": {}
+        }
       }
     }
   },
@@ -2094,6 +2100,11 @@
       "sha512": "sha512-js6uCr5v76V+ZKmsy1QpmjsSj2k1FpQvcBYbDwEN9KCXz9qMqiUosawuixqzYFTbvmPTIkGqTsC0q97KrAaDLw==",
       "path": "unosquare.wiringpi/0.5.0",
       "hashPath": "unosquare.wiringpi.0.5.0.nupkg.sha512"
+    },
+    "WiringPi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   },
   "runtimes": {
